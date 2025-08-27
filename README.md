@@ -46,4 +46,4 @@ python main.py "What is the invoice number value?"
 
 
 
-Inspired by https://www.youtube.com/watch?v=mONpftuo02M
+
